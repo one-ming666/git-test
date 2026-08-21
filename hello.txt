@@ -1,3 +1,4 @@
 hello git! Hello git world!
 hello git! Hello git world!
 hello git! 
+fix-bug commit
